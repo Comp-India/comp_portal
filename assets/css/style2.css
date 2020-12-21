@@ -1,0 +1,100 @@
+#main {
+  margin:  8%;
+  font-family: 'Calibre','sans-serif';
+}
+.breadcrumbs {
+  display: block;
+}
+ .section-title {
+  font-size: 32px;
+  font-weight: 200;
+  text-align: center;
+  margin-bottom: 100px ;
+}
+
+.availResource, .currentProject{
+  margin: 120px 0;
+}
+
+.resourceCard {
+  width: 50%;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 5px;
+  display: inline-block;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.resourceCard img {
+  width: 50%;
+  float: left;
+  margin: 10px;
+}
+.resourceCard .cardinfo {
+  padding-top: 40px;
+}
+.cardtitle{
+
+  padding: 20px;
+  font-weight: 100;
+
+}
+
+.cardtext {
+  font-size: 72px;
+  font-weight: 500;
+  padding: 20px;
+  color: rgba(238, 56, 24,0.95);
+}
+
+#barchart1 {
+  display: inline-block;
+  width: 40%;
+  margin: 20px;
+  padding: 5px;
+  vertical-align: top;
+}
+#barchart2,
+#pieChart {
+  display: inline-block;
+  width: 45%;
+  margin: 20px;
+  padding: 5px;
+  vertical-align: top;
+}
+
+.projectCard {
+  width: 100%;
+  height: 400px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 100px 20px;
+  
+  padding: 5px;
+  display: inline-block;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.projectDetails {
+  width: 30%;
+  float: left;
+  margin: 20px;
+}
+.projectCard img {
+  width: 300px;
+}
+
+.projectText {
+  padding-top: 30px;
+}
+
+.gChartClass {
+  display: inline-block;
+  width: 50%;
+  margin: 5px;
+  padding: 40px 0;
+  padding-left: 80px;
+}
