@@ -743,10 +743,10 @@ p {
   z-index: -1; }
 
 .header-hero-content {
-  padding-top: 180px; }
+  padding-top: 180px;}
   @media (max-width: 767px) {
     .header-hero-content {
-      padding-top: 100px; } }
+      padding-top: 140px;} }
   .header-hero-content .header-sub-title {
     font-size: 38px;
     font-weight: 300;
